@@ -1,2 +1,11 @@
-# gee.github.io
-gee.cat
+#简介
+
+> 这里是sabialab博客的一个分支，域名为*gee.cat*
+
+##TU DO
+- Python学习分享
+- 学习方法、经验分享
+- 记录一些点滴日常
+
+##SO
+其实就是个人的一个日常博客……
